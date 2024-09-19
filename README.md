@@ -1,5 +1,5 @@
 # Premier League 2018-2019 Database Analysis
-
+![premiere-league-premiere-league-logo](https://github.com/user-attachments/assets/4fd16f51-11d8-4b1e-a685-e63ac07af7ac)
 ## Descripción del Proyecto
 
 Este proyecto forma parte del bootcamp de análisis de datos de Ironhack, y se centra en la construcción y análisis de una base de datos usando **MySQL**. El objetivo principal ha sido limpiar y organizar un conjunto de datos en **Python**, para luego estructurarlo en una base de datos relacional que permita realizar análisis avanzados a través de consultas SQL.
