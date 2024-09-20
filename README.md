@@ -54,7 +54,7 @@ La base de datos utilizada en este proyecto está basada en datos reales de la t
 
 ## Presentación
 
-- **[link](https://prezi.com/p/edit/hmmazzaliqrl/?lid=x1kxl8roj2s0&utm_source=braze&utm_medium=email&utm_content=Tokenization+Variant&utm_campaign=Next_Share_A_Prezi_v2&UID=338042680)
+- **[Link](https://prezi.com/p/edit/hmmazzaliqrl/?lid=x1kxl8roj2s0&utm_source=braze&utm_medium=email&utm_content=Tokenization+Variant&utm_campaign=Next_Share_A_Prezi_v2&UID=338042680)**
 
 Este proyecto refleja el trabajo colaborativo y el aprendizaje adquirido durante la cuarta semana del bootcamp, aplicando conocimientos de **Python**, **MYSQL** y **visualización de datos** en un contexto del mundo real.
 
