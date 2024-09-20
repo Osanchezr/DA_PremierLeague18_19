@@ -47,13 +47,6 @@ La base de datos utilizada en este proyecto está basada en datos reales de la t
 - Relación entre la capacidad del estadio y victorias locales.
 - ¿Tener mayor posesión asegura más victorias?
 
-## Enlaces
-
-- **[Data Cleaning Notebook]()**
-- **[Modelo Entidad-Relación]()**
-- **[Consultas SQL]()**
-- **[Presentación](#)**
-
 ## Participantes
 
 - **[Oscar Sanchez](https://github.com/Osanchezr)**
