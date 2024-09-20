@@ -50,7 +50,7 @@ La base de datos utilizada en este proyecto está basada en datos reales de la t
 ## Participantes
 
 - **[Oscar Sanchez](https://github.com/Osanchezr)**
-- **[Beatriz]**
+- **[Beatriz Tranche](https://github.com/beatranche)**
 
 Este proyecto refleja el trabajo colaborativo y el aprendizaje adquirido durante la cuarta semana del bootcamp, aplicando conocimientos de **Python**, **MYSQL** y **visualización de datos** en un contexto del mundo real.
 
