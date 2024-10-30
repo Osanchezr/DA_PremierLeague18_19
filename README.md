@@ -13,12 +13,17 @@ La base de datos utilizada en este proyecto está basada en datos reales de la t
    
 ### 2. Modelado de Base de Datos Relacional
    - Una vez los datos estuvieron listos, se exportaron a **MySQL**, donde se creó un **Modelo Entidad-Relación (ER)** que representó las relaciones entre equipos, jugadores, partidos, estadios y calendario.
+![model](https://github.com/Osanchezr/DA_PremierLeague18_19/blob/554ddfa3d30ade24ecaf9d1e5375e1546ff0a047/images/model.JPG)
    
 ### 3. Análisis SQL Avanzado
    - Se realizaron diversas consultas SQL para analizar diferentes aspectos de la temporada, relacion de puntaje y goles por equipo, los jugadores con más goles y la influencia de los estadios en el rendimiento de los equipos,etc.
    
 ### 4. Visualización de Datos en Python
    - Finalmente, los resultados de las consultas SQL se exportaron a Python, donde se crearon gráficos visuales utilizando **matplotlib** y **seaborn**. Estos gráficos ayudaron a visualizar patrones y tendencias clave de la temporada.
+![g1](https://github.com/Osanchezr/DA_PremierLeague18_19/blob/554ddfa3d30ade24ecaf9d1e5375e1546ff0a047/images/grafico1.JPG)
+![g2](https://github.com/Osanchezr/DA_PremierLeague18_19/blob/554ddfa3d30ade24ecaf9d1e5375e1546ff0a047/images/grafico2.JPG)
+![g3](https://github.com/Osanchezr/DA_PremierLeague18_19/blob/554ddfa3d30ade24ecaf9d1e5375e1546ff0a047/images/grafico3.JPG)
+![g4](https://github.com/Osanchezr/DA_PremierLeague18_19/blob/554ddfa3d30ade24ecaf9d1e5375e1546ff0a047/images/grafico4.JPG)
 
 ## Herramientas Utilizadas
 
